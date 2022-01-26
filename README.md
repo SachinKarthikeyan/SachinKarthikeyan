@@ -8,7 +8,7 @@
 - I love doing creative stuffs that's one of the reason for my pursuit in career in Front-end engineering.
 - I also know Python ,C and Unity.
 - Iam currently learning Digital Marketing.
-
+<hr>
 <h4 align="center">CONNECT</h3>
 <p align="center">
 <a href="https://instagram.com/ui.duiwel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ui.duiwel" height="30" width="40" /></a>
@@ -19,5 +19,5 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinkarthikeyan&show_icons=true&locale=en&theme=ayu-mirage" alt="sachinkarthikeyan" /></p>
 
-<p align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachinkarthikeyan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachinkarthikeyan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
