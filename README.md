@@ -1,3 +1,4 @@
+![This is an image](https://github.com/SachinKarthikeyan/SachinKarthikeyan/blob/main/gh-header-image.png)
 <h1 align="center">Hi 👋, I'm Sachin S.K</h1>
 <h3 align="center">Front-end Developer and UI Designer</h3>
 
