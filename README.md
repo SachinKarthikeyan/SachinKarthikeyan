@@ -12,7 +12,7 @@
 <h4 align="left">📬 Mail me at:</h3>
 <a href="#">ui0duiwel@gmail.com</a>
 <p align="left">
- Follow me on Instagram
+ Follow me on Instagram <br>
 <a href="https://instagram.com/ui.duiwel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ui.duiwel" height="30" width="40" /></a>
 </p>
 
