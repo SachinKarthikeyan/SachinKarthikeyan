@@ -1,13 +1,12 @@
 ![This is an image](https://github.com/SachinKarthikeyan/SachinKarthikeyan/blob/main/gh-header-image.png)
 <h1 align="left">👋Hi, I'm Sachin S.K</h1>
-<h3 align="left">Front-end Developer and UI Designer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkarthikeyan&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkarthikeyan" /> </p>
 
 - I design and develop fancy and visually appeling websites.
-- I love doing creative stuffs that's one of the reason for my pursuit in career in Front-end engineering.
-- I also know Python ,C and Unity.
-- Iam currently learning Digital Marketing.
+- I also work with Computer Vision
+- Currently on my way to become a Machine Learning Expert
+
+
 
 <h4 align="left">📬 Mail me at:</h3>
 <a href="#">ui0duiwel@gmail.com</a>
