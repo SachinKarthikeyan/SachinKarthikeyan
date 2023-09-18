@@ -1,25 +1,49 @@
-![This is an image](https://github.com/SachinKarthikeyan/SachinKarthikeyan/blob/main/gh-header-image.png)
-<h1 align="left">👋Hi, I'm Sachin S.K</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkarthikeyan&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkarthikeyan" /> </p>
+<!-- Header -->
+# Hello, I'm Sachin! 👋
 
-- I design and develop fancy and visually appeling websites.
-- I also work with Computer Vision
-- Currently on my way to become a Machine Learning Expert
+I'm a Graphic Designer, UI Designer, and Developer with a passion for machine learning.
 
+- 🎨 Graphic Design | 🖌️ UI Design | 💻 Development | 🤖 Machine Learning
+- 📧 Email: sachinnkarthikeyan@gmail.com
 
+<!-- Music Section -->
+## 🎵 Now Playing: [Background Music](https://www.example.com/music.mp3)
 
-<h4 align="left">📬 Mail me at:</h3>
-<a href="#">ui0duiwel@gmail.com</a>
-<br>
-<p align="left">
- Follow me on Instagram <br>
-<a href="https://instagram.com/ui.duiwel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ui.duiwel" height="30" width="40" /></a>
-</p>
+- 🎶 Volume: Minimal
+- 🔊 [Turn it up](javascript:(function(e){var t=document.querySelector("audio"),n="false"!==e.getAttribute("data-muted");n?(e.textContent="🔊",t.muted=!1):(e.textContent="🔇",t.muted=!0),e.setAttribute("data-muted",!n)})(this);)
 
-<h4 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<hr>
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinkarthikeyan&show_icons=true&locale=en&theme=dark" alt="sachinkarthikeyan" /></p>
-<br>
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkarthikeyan&theme=dark" alt="sachinkarthikeyan" /></p>
+<!-- About Me -->
+## About Me
 
+I love turning ideas into beautiful designs and functional code. With a background in both design and development, I enjoy creating user-friendly interfaces and exploring the exciting world of machine learning.
+
+<!-- Connect with Me -->
+## Connect with Me
+
+- 🌐 [Website](https://www.example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sachin-karthikeyan)
+- 📷 [Instagram](https://www.instagram.com/sachin.designs)
+
+<!-- Latest Projects -->
+## Latest Projects
+
+- 🎨 [Graphic Design Portfolio](https://www.instagram.com/brosartsucks)
+- 💻 [UI/UX Design Showcase](https://www.instagram.com/brosartsucks)
+- 🤖 [Machine Learning Adventures](https://www.example.com/ml-adventures)
+
+<!-- Languages and Tools -->
+## Languages and Tools
+
+- 🎨 Adobe Creative Suite
+- 🖌️ Figma | Sketch | Adobe XD
+- 💻 HTML | CSS | JavaScript
+- 🤖 Python | TensorFlow | PyTorch
+- ☕ Java | C | C++
+
+<!-- GitHub Stats -->
+## GitHub Stats
+
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SachinKarthikeyan&show_icons=true&theme=dark)
+
+<!-- Footer -->
+## Thanks for visiting! 🙌
