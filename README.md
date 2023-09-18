@@ -6,12 +6,6 @@ I'm a Graphic Designer, UI Designer, and Developer with a passion for machine le
 - 🎨 Graphic Design | 🖌️ UI Design | 💻 Development | 🤖 Machine Learning
 - 📧 Email: sachinnkarthikeyan@gmail.com
 
-<!-- Music Section -->
-## 🎵 Now Playing: [Background Music](https://www.example.com/music.mp3)
-
-- 🎶 Volume: Minimal
-- 🔊 [Turn it up](javascript:(function(e){var t=document.querySelector("audio"),n="false"!==e.getAttribute("data-muted");n?(e.textContent="🔊",t.muted=!1):(e.textContent="🔇",t.muted=!0),e.setAttribute("data-muted",!n)})(this);)
-
 <!-- About Me -->
 ## About Me
 
