@@ -4,7 +4,7 @@
 I'm a Graphic Designer, UI Designer, and Developer with a passion for machine learning.
 
 - 🎨 Graphic Design | 🖌️ UI Design | 💻 Development | 🤖 Machine Learning
-- 📧 Email: sachinnkarthikeyan@gmail.com
+- 📧 Email: sachkarthikeyan@gmail.com
 
 <!-- About Me -->
 ## About Me
@@ -16,7 +16,7 @@ I love turning ideas into beautiful designs and functional code. With a backgrou
 
 - 🌐 [Website](https://www.example.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sachin-karthikeyan)
-- 📷 [Instagram](https://www.instagram.com/sachin.designs)
+- 📷 [Instagram](https://www.instagram.com/brosartsucks)
 
 <!-- Latest Projects -->
 ## Latest Projects
